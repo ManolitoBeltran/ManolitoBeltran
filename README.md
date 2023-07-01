@@ -1,4 +1,4 @@
-<h1 align="center">Hola , soy Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left">Hola , soy Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://github.com/ManolitoBeltran/ManolitoBeltran/blob/main/Untitled-3.jpg" style="height: 100% , width:100%">
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
